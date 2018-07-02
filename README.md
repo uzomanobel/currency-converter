@@ -12,3 +12,6 @@ indexDB
 serviceWorker
 
 also has offline features
+
+
+published on https://uzomanobel.github.io/currencyconverter/
