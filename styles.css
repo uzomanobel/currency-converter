@@ -1,0 +1,35 @@
+<style>
+ html{
+	 background: yellow;
+ }
+.feature-box .desc {
+  
+}
+h1 {
+   margin-top:100px;
+   font-size: 5em;
+  font-weight: bold;
+}
+
+	
+.columns{
+	padding:5px;
+	margin-left:200px;
+}
+ .medium-4{
+	 margin-left:450px;
+	 padding:5px;
+ }
+ .medium-2{
+	 margin-left:222px;
+	 margin-bottom:10px;
+	 margin-top:10px;
+ }
+ body{
+	 margin-bottom:100px;
+	 background: yellow;
+ }
+ .name{
+	 margin-left:300px;
+ }
+</style>
